@@ -23,7 +23,7 @@ Languages and tools
 
 <br />
 <a href="https://twitter.com/mquintana1988">
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter-square.svg?size=128&color=currentColor" />
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter-square.svg?size=128&color=70c8ff" />
 </a>
 
 
