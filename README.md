@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world
 
 🚀 About me
 
@@ -9,6 +9,14 @@
 🏀 I love basketball and travelling. 
 
 👪 I'm a proud father of two awesome boys (Camilo and Leon).
+
+
+<a href="https://twitter.com/mquintana1988">
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+</a>
+
+
+
 
 <!--
 **quintanamartin/quintanamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
