@@ -4,7 +4,7 @@
 
 🤓 I'm Martín Quintana! I've been working as Front End developer for almost a year. 
 
-🔭 I'm currently working @[Intraway](https://www.intraway.com/).
+🔭 I'm currently working @ [Intraway](https://www.intraway.com/).
 
 🌱 I’m currently working with Angular and AngularJS.
 
@@ -16,12 +16,16 @@
 
 👪 I'm a proud father of two awesome boys (Camilo and Leon).
 
+<br />
+Languages and tools
+
 
 
 <br />
 <a href="https://twitter.com/mquintana1988">
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter-square.svg?size=128&color=currentColor" />
 </a>
+
 
 
 
