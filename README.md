@@ -18,12 +18,13 @@
 
 <br />
 Languages and tools
-
-
+<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
+<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/></code>
+<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
 
 <br />
 <a href="https://twitter.com/mquintana1988">
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter-square.svg?size=128&color=70c8ff" />
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=49ced0" />
 </a>
 
 
