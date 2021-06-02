@@ -19,10 +19,13 @@
 
 Languages and tools
 <br />
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
-<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=9a169c"/>
+<img align="left" alt="angular" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="javascript" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="typescript" width="26px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=9a169c"/>
+<img align="left" alt="react" width="26px" src="https://icongr.am/devicon/react-original.svg?size=128&color=9a169c"/>
+<img align="left" alt="bootstrap" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=9a169c"/>
 
+<br />
 <br />
 <a href="https://twitter.com/mquintana1988">
 <img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=49ced0" />
