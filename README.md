@@ -16,10 +16,10 @@
 
 👪 I'm a proud father of two awesome boys (Camilo and Leon).
 
-
-Languages and tools
 <br />
-<img align="left" alt="angular" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
+Languages and tools
+<br /><br />
+<code><img align="left" alt="angular" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
 <img align="left" alt="javascript" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
 <img align="left" alt="typescript" width="26px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=9a169c"/>
 <img align="left" alt="react" width="26px" src="https://icongr.am/devicon/react-original.svg?size=128&color=9a169c"/>
