@@ -4,9 +4,11 @@
 
 🤓 I'm Martín Quintana! I've been working as Front End developer for almost a year. 
 
-🔭 I'm currently working on Angular and AngularJs.
+🔭 I'm currently working @[Intraway](https://www.intraway.com/).
 
-🌱 I’m currently learning React.
+🌱 I’m currently working with Angular and AngularJS.
+
+✍️ I'm learning React (with Typescript :metal:)
 
 🎓 I've studied English for more than 10 years. I'm public translator in Argentina 🇦🇷. 
 
