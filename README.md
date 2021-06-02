@@ -17,8 +17,8 @@
 👪 I'm a proud father of two awesome boys (Camilo and Leon).
 
 <br />
-Languages and tools
-<br /><br />
+## Languages and tools
+
 <code><img align="left" alt="angular" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
 <code><img align="left" alt="javascript" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/></code>
 <code><img align="left" alt="typescript" width="26px" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=9a169c"/></code>
@@ -26,6 +26,7 @@ Languages and tools
 <code><img align="left" alt="bootstrap" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=9a169c"/></code>
 
 
+---
 <a href="https://twitter.com/mquintana1988">
 <img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=49ced0" />
 </a>
