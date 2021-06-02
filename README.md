@@ -16,11 +16,12 @@
 
 👪 I'm a proud father of two awesome boys (Camilo and Leon).
 
-<br />
+
 Languages and tools
-<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
-<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/></code>
-<code><img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/></code>
+<br />
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
+<img align="left" alt="Martin Quintana twitter" width="26px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=9a169c"/>
 
 <br />
 <a href="https://twitter.com/mquintana1988">
