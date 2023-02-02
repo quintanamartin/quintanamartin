@@ -3,9 +3,7 @@
 
 🤓 I'm Martín Quintana! I've been working as Front End developer for almost a year. 
 
-🔭 I'm currently working @ [Intraway](https://www.intraway.com/) with AngularJS and Angular.
-
-✍️ I'm learning React (with Typescript :metal:)
+🔭 I'm currently working @ [RGA](https://www.rga.com/) in Google Ads dedicated team.
 
 🎓 I've studied English for more than 10 years. I'm public translator in Argentina 🇦🇷. 
 
