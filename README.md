@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 
-🤓 I'm Martín Quintana! I've been working as Front End developer for almost a year. 
+🤓 I'm Martín Quintana!
 
 🔭 I'm currently working @[RGA](https://www.rga.com/) in Google Ads dedicated team.
 
